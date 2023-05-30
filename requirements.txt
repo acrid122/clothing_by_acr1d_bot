@@ -18,3 +18,4 @@ vkbottle-types==5.131.146.14
 watchfiles==0.18.1
 wrapt==1.14.1
 yarl==1.8.2
+multipledispatch==0.6.0
